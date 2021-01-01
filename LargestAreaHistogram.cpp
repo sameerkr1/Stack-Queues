@@ -1,4 +1,4 @@
-void nextGreaterElement(long long a[],ll n){ 
+void LargerstAreaHistogram(long long a[],ll n){ 
     stack<int> s; 
   
     ll ans=0;
